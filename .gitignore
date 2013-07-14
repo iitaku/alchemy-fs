@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+# Vim
+*.swp
+
+# CMake
+build
